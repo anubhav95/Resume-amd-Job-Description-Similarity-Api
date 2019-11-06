@@ -1,1 +1,1 @@
-# Resume-amd-Job-Description-Similarity-Api
+# Resume-and-Job-Description-Similarity-Api
