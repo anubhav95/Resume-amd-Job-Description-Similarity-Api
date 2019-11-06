@@ -1,0 +1,32 @@
+[
+    {
+        "Job Description": "Google ml_jd.pdf",
+        "Resume": "Resume --Rohini Prakash.pdf",
+        "Resume Ratch Score": "40.52%"
+    },
+    {
+        "Job Description": "Google ml_jd.pdf",
+        "Resume": "Rohini Prakash.docx",
+        "Resume Ratch Score": "40.410000000000004%"
+    },
+    {
+        "Job Description": "Google ml_jd.pdf",
+        "Resume": "test_resume.pdf",
+        "Resume Ratch Score": "56.82000000000001%"
+    },
+    {
+        "Job Description": "Machine-Learning-Engineer.pdf",
+        "Resume": "Resume --Rohini Prakash.pdf",
+        "Resume Ratch Score": "58.32000000000001%"
+    },
+    {
+        "Job Description": "Machine-Learning-Engineer.pdf",
+        "Resume": "Rohini Prakash.docx",
+        "Resume Ratch Score": "57.78%"
+    },
+    {
+        "Job Description": "Machine-Learning-Engineer.pdf",
+        "Resume": "test_resume.pdf",
+        "Resume Ratch Score": "61.23%"
+    }
+]
